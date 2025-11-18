@@ -1,5 +1,5 @@
 # 👋 Hi, I'm **Ayomide Olaniyan**  
-### 🧠 Data Analyst | 📊 Data Analytics Instructor | 🤖 Passionate about AI & EdTech
+### 🧠 Data Analyst | 📊 Analytics Engineer | 🤖 Passionate about AI & Education
 
 I'm a Data Analyst with strong interest in **Machine Learning, Python development, and educational technology**. I enjoy transforming data into insights, building learning tools, and equipping the next generation with tech skills.
 
