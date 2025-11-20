@@ -64,11 +64,9 @@ I'm a Data Analyst with strong interest in **Machine Learning, Python developmen
 ---
 
 ## 🏆 **Achievements / Certifications**
-- Data Analyst Associate 
-https://www.datacamp.com/certificate/DAA0019241709292
+- [Data Analyst Associate](https://www.datacamp.com/certificate/DAA0019241709292)
 - Career Essentials in Generative AI by Microsoft and LinkedIn
-- Data Literacy
-https://www.datacamp.com/skill-verification/DL0035983555675
+- [Data Literacy](https://www.datacamp.com/skill-verification/DL0035983555675)
   
 
 ---
