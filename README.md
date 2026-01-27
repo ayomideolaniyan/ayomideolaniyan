@@ -6,7 +6,7 @@ I'm a Data Analyst with strong interest in **Machine Learning, Python developmen
 ---
 
 ## 🚀 **Current Role**
-- **Data Analyst — AidLearn Analytics**
+- **Marketing Data Analyst — Daggo Media Solutions**
 
 ---
 
